@@ -1,0 +1,45 @@
+{
+    "image":[
+        {
+            "id":1,
+            "title":"Guitar FUndamentals",
+            "slug":"guitar-fundamentals",
+            "description" :"Learn the basic of playing quitar with our comprehensive biggner's course.",
+            "price" :99.99,
+            "instructor" : "John Doe",
+            "isFeatured " : true,
+            "image" : "/courses/guitar.jpg"
+        },
+        {
+            "id":2,
+            "title":"Guitar Advanced",
+            "slug":"guitar-advanced",
+            "description" :"Learn the advanced of playing quitar with our comprehensive biggner's course.",
+            "price" :199.99,
+            "instructor" : "John Doe",
+            "isFeatured " : true,
+            "image" : "/courses/advanced_guitar.jpg"
+        },
+        {
+            "id":3,
+            "title":"Piano Fundamentals",
+            "slug":"Piano-Fundamentals",
+            "description" :"Learn the Fundamentals of playing Piano with our comprehensive biggner's course.",
+            "price" :199.99,
+            "instructor" : "John Doe",
+            "isFeatured " : true,
+            "image" : "/courses/Piano.jpg"
+        }
+        ,
+        {
+            "id":4,
+            "title":"Piano Advanced",
+            "slug":"Piano-advanced",
+            "description" :"Learn the advanced of playing Piano with our comprehensive biggner's course.",
+            "price" :199.99,
+            "instructor" : "John Doe",
+            "isFeatured " : true,
+            "image" : "/courses/advanced_Piano.jpg"
+        }
+    ]
+}
