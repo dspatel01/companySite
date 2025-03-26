@@ -1,19 +1,3 @@
-// import Wave from '@/component/Wave'
-// import React from 'react'
-
-// const title =
-
-// export default function AboutPage () {
-//   return (
-//     <>
-//       <div>
-//         <Wave title1="Empowering Your Digital Success" />
-//       </div>
-
-//       <div className='mt-0 relative'>this is testing</div>
-//     </>
-//   )
-// }
 
 import Wave from '@/component/Wave'
 import React from 'react'
